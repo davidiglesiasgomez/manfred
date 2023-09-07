@@ -1,0 +1,238 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Iglesias",
+      "title": "Larga experiencia desarrollando PHP y JS. Empecé como Sysadmin. Perito antes que ingeniero",
+      "description": "Me he pasado media vida haciendo las cosas a mi modo y por mi propia iniciativa pero no estoy del todo satisfecho y creo que todo es un proceso de mejora continua. Quizá necesito algún \"vamos a hacer esto así\" en lugar de un \"búscate la vida\". O no.\n\nA pesar de mis años de experiencia creo que todavía queda mucho por ver.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJk8GyYRRiLw0Rn9RLF60dRHs)",
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Vigo"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Aaccentia Multimedia SL"
+        },
+        "roles": [
+          {
+            "name": "Sysadmin y desarrollador",
+            "startDate": "2005-05-01",
+            "challenges": [
+              {
+                "description": "Sysadmin interno. Desarrollador de proyectos a medida, especialmente web. Cierta experiencia usando APIs, especialmente de e-commerce."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/david-iglesias-87299668/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/davidiglesiasgomez",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/spidinetworks",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "david.iglesias@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "600524494",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Apache",
+          "type": "technology"
+        },
+        {
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
+          "name": "Nginx",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "PHPunit",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Research Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "He trabajado en numerosos y variados proyectos pero me gustaría trabajar para un proyecto concreto y ayudar a mejorarlo en todos sus aspectos. Me gustaría trabajar con gente que supiera más que yo, principalmente en todo lo que va más allá del desarrollo del software y poder aprender de ellos y transmitir ese conocimiento, aunque me gusta que hasta el momento me hayan dejado tomar mis propias decisiones y llevar a cabo mis propias iniciativas. Creo que soy bueno en la visión desapasionada de los proyectos y planteando soluciones eficientes"
+  }
+}
