@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -16,7 +16,21 @@
         "region": "Galicia",
         "municipality": "Vigo"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/david-iglesias-87299668/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/davidiglesiasgomez"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/spidinetworks"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -42,14 +56,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -176,12 +193,6 @@
       ],
       "contactMails": [
         "david.iglesias@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "600524494",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
