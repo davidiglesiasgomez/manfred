@@ -244,6 +244,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Bootstrap",
+        "type": "technology"
+      },
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "jQuery",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "He trabajado en numerosos y variados proyectos pero me gustaría trabajar para un proyecto concreto y ayudar a mejorarlo en todos sus aspectos. Me gustaría trabajar con gente que supiera más que yo, principalmente en todo lo que va más allá del desarrollo del software y poder aprender de ellos y transmitir ese conocimiento, aunque me gusta que hasta el momento me hayan dejado tomar mis propias decisiones y llevar a cabo mis propias iniciativas. Creo que soy bueno en la visión desapasionada de los proyectos y planteando soluciones eficientes"
   }
 }
